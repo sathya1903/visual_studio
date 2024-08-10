@@ -1,1 +1,1 @@
-my name is sathya
+print(10+4)
